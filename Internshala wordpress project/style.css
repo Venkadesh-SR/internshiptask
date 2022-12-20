@@ -1,0 +1,150 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.tt{
+    padding: 20px;
+    margin-top: 20px;
+    padding-left: 2cm;
+  
+   font-size: large;
+}
+.listnav li{
+    display: inline;
+    
+    margin-left: .5cm;
+    margin-right: .5cm;
+
+}
+.tt a {
+    font-size: x-large;
+    padding-left: 2cm;
+    text-decoration: none;
+    color: azure;
+    
+}
+.tt a span{
+    font-weight: bolder;
+    color: rgb(214, 142, 27);
+    font-size: xx-large;
+}
+.image{
+    max-width: 2.5cm;
+    max-height: 2.5cm;
+    float: left;
+    
+}
+.centerlogo{
+    max-width: 2cm;
+    text-align: center;
+    max-height: 2cm;
+}
+.listnav li a{
+    text-decoration: none;
+    color:rgb(227, 221, 221);
+    font-weight: 200;
+}
+.loginb{
+    float: right;
+    margin-right: 15mm;
+    padding-right: 10mm;
+    
+}
+.loginb button{
+    margin-left: 15mm;
+    margin-top: 10mm;
+ size: 1cm;
+padding-left: 5mm;
+padding-right: 5mm;
+padding-top: 3mm;
+padding-bottom: 3mm;
+background-color: rgb(94, 224, 114);
+text-shadow: 1mm;
+border-width: 0.1mm;
+}
+
+.loginb button a{
+    text-decoration: none;
+   
+    padding-right: 2mm;
+    padding-left: 2mm;
+    font-weight: 300;
+    font-size: larger;
+    color: rgb(157, 154, 163);
+
+    
+}  
+.drop a{
+    display: block;
+    padding: 2mm;
+    margin-bottom: 1mm;
+    padding-bottom: 1mm;
+
+}
+.loginb button:hover{
+    background-color: rgb(137, 201, 180);
+}
+
+.drop ul li a{
+    display: block;
+
+}
+
+body{
+    background-color: rgb(90, 14, 223);
+}
+.it{
+    margin-top: 1.5cm;
+    float: right;
+    margin-bottom: 5cm;
+  margin-left: 17cm;
+    padding: 0;
+    padding-top: 1cm;
+    
+    padding-right: 2cm;
+}
+.im{
+   font-size: 70px;
+   margin-left: 2cm;
+   margin-top: 35mm;
+   color: aliceblue;
+}
+.im span{
+    font-weight: 600;
+    text-align: center;
+    color: rgb(220, 134, 20);
+}
+.ip{
+    font-size:x-large;
+    margin-left: 2cm;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    margin-top: 10mm;
+    color: aliceblue;
+}
+.la{
+    background-color: aquamarine;
+    padding: 4mm;
+    margin-left: 2cm;
+}.la a{
+    text-decoration: none;
+    color: rgb(210, 194, 20);
+    font-weight: 300;
+}
+.oo{
+    text-align: center;
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 2cm;
+     margin-top: 3cm;
+     color: rgb(200, 115, 12);
+     font-weight: 500;
+}
+
+.oo span{
+    color: blanchedalmond;
+}
+.iio{
+    text-align: center;
+    margin-left: 10cm;
+}
